@@ -1,4 +1,4 @@
 # created by virtualenv automatically
 site-packages/
 scripts/
-inspectionProfiles/
+.idea/
